@@ -1,1 +1,1 @@
-E Commerce web app.
+E Commerce web app made using MERN, Redis.io
